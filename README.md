@@ -1,0 +1,1 @@
+odin-recipes is an html only website created to showcase html concepts learned through the Odin Project.
